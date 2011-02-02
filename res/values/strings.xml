@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">TicTacTowl</string>
+    <string name="instructions">Object of the Game: To be the first player to get three (3) of their playing pieces in a row – horizontally, diagonally, or vertically.</string>
+</resources>
